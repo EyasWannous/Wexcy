@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Wexcy.Domain/Wexcy.Domain.csproj" />
+    <Project Path="src/Wexcy.Application/Wexcy.Application.csproj" />
+    <Project Path="src/Wexcy.Infrastructure/Wexcy.Infrastructure.csproj" />
+    <Project Path="src/Wexcy.Presentation/Wexcy.Presentation.csproj" />
+    <Project Path="src/Wexcy.Host/Wexcy.Host.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Wexcy.UnitTests/Wexcy.UnitTests.csproj" />
+  </Folder>
+</Solution>
